@@ -3,7 +3,7 @@ import json
 import os
 from elasticsearch import Elasticsearch
 
-# DOI OIG: joshua_simpson@doioig.gov
+# JMS
 # ElasticSearch Ingest Script
 # https://elasticsearch-py.readthedocs.io/en/master/api.html
 #
