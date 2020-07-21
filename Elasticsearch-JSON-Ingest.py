@@ -34,7 +34,7 @@ except Exception as e:
     print(e)
 
 print('\nDo you want to continue?(Y/N)\n')
-check_for_go = input('')    # Do you know if you wanna go?
+check_for_go = input('')
 
 if check_for_go.upper != 'Y':
     print('\nDid not enter "Y". Exiting.....\n')
